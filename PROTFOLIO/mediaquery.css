@@ -1,0 +1,16 @@
+@media screen  and (max-width: 680px){
+    h1{
+        font-size: 2.8rem;
+    }
+
+    .image-container{
+        width: 20rem;
+    }    
+    .hero-section{
+        min-height: 72vh;
+    }                 
+    
+    .about-me{
+        width: 23rem;
+    }
+}
